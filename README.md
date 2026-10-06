@@ -4,11 +4,6 @@ Refinamento de um modelo conceitual de e-commerce, feito no MySQL Workbench para
 
 ## Diagrama
 
-
-![Diagrama EER](diagrama-ecommerce.png)
-
-
-
 ## Objetivo do desafio
 Refinar o modelo acrescentando:
 - *Cliente PJ e PF:* uma conta pode ser PJ ou PF, mas não pode ter as duas informações.
